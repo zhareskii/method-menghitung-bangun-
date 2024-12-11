@@ -1,0 +1,28 @@
+C:\XRPL2_ARIFZHA_RESKI\DDK3\studycase51\bin\Debug\net8.0\studycase51.exe
+C:\XRPL2_ARIFZHA_RESKI\DDK3\studycase51\bin\Debug\net8.0\studycase51.deps.json
+C:\XRPL2_ARIFZHA_RESKI\DDK3\studycase51\bin\Debug\net8.0\studycase51.runtimeconfig.json
+C:\XRPL2_ARIFZHA_RESKI\DDK3\studycase51\bin\Debug\net8.0\studycase51.dll
+C:\XRPL2_ARIFZHA_RESKI\DDK3\studycase51\bin\Debug\net8.0\studycase51.pdb
+C:\XRPL2_ARIFZHA_RESKI\DDK3\studycase51\obj\Debug\net8.0\studycase51.GeneratedMSBuildEditorConfig.editorconfig
+C:\XRPL2_ARIFZHA_RESKI\DDK3\studycase51\obj\Debug\net8.0\studycase51.AssemblyInfoInputs.cache
+C:\XRPL2_ARIFZHA_RESKI\DDK3\studycase51\obj\Debug\net8.0\studycase51.AssemblyInfo.cs
+C:\XRPL2_ARIFZHA_RESKI\DDK3\studycase51\obj\Debug\net8.0\studycase51.csproj.CoreCompileInputs.cache
+C:\XRPL2_ARIFZHA_RESKI\DDK3\studycase51\obj\Debug\net8.0\studycase51.dll
+C:\XRPL2_ARIFZHA_RESKI\DDK3\studycase51\obj\Debug\net8.0\refint\studycase51.dll
+C:\XRPL2_ARIFZHA_RESKI\DDK3\studycase51\obj\Debug\net8.0\studycase51.pdb
+C:\XRPL2_ARIFZHA_RESKI\DDK3\studycase51\obj\Debug\net8.0\studycase51.genruntimeconfig.cache
+C:\XRPL2_ARIFZHA_RESKI\DDK3\studycase51\obj\Debug\net8.0\ref\studycase51.dll
+C:\XRPL2_ARIFZHA_RESKI\BU ROSYY\studycase51\bin\Debug\net8.0\studycase51.exe
+C:\XRPL2_ARIFZHA_RESKI\BU ROSYY\studycase51\bin\Debug\net8.0\studycase51.deps.json
+C:\XRPL2_ARIFZHA_RESKI\BU ROSYY\studycase51\bin\Debug\net8.0\studycase51.runtimeconfig.json
+C:\XRPL2_ARIFZHA_RESKI\BU ROSYY\studycase51\bin\Debug\net8.0\studycase51.dll
+C:\XRPL2_ARIFZHA_RESKI\BU ROSYY\studycase51\bin\Debug\net8.0\studycase51.pdb
+C:\XRPL2_ARIFZHA_RESKI\BU ROSYY\studycase51\obj\Debug\net8.0\studycase51.GeneratedMSBuildEditorConfig.editorconfig
+C:\XRPL2_ARIFZHA_RESKI\BU ROSYY\studycase51\obj\Debug\net8.0\studycase51.AssemblyInfoInputs.cache
+C:\XRPL2_ARIFZHA_RESKI\BU ROSYY\studycase51\obj\Debug\net8.0\studycase51.AssemblyInfo.cs
+C:\XRPL2_ARIFZHA_RESKI\BU ROSYY\studycase51\obj\Debug\net8.0\studycase51.csproj.CoreCompileInputs.cache
+C:\XRPL2_ARIFZHA_RESKI\BU ROSYY\studycase51\obj\Debug\net8.0\studycase51.dll
+C:\XRPL2_ARIFZHA_RESKI\BU ROSYY\studycase51\obj\Debug\net8.0\refint\studycase51.dll
+C:\XRPL2_ARIFZHA_RESKI\BU ROSYY\studycase51\obj\Debug\net8.0\studycase51.pdb
+C:\XRPL2_ARIFZHA_RESKI\BU ROSYY\studycase51\obj\Debug\net8.0\studycase51.genruntimeconfig.cache
+C:\XRPL2_ARIFZHA_RESKI\BU ROSYY\studycase51\obj\Debug\net8.0\ref\studycase51.dll
